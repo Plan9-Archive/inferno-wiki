@@ -23,6 +23,7 @@ The following is a mixture of both possible and probable changes to the Limbo la
   * dynamic types
   * better support for type parameters, including allowing non-reference types
   * load operator raises exception on failure (instead of returning nil)
+  * coroutines
   * …
 
 # Dis
