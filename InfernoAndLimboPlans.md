@@ -3,6 +3,7 @@ Here are initial lists of some changes and additions planned for Inferno and Lim
 # Inferno
 
 The following are quite likely to be done:
+
   * new authentication implementation (currently in progress)
   * better scheduling for Limbo/Dis processes
   * replacement for Dis (possibly to be used alongside Dis)
@@ -16,6 +17,7 @@ The following are quite likely to be done:
 # Limbo
 
 The following is a mixture of both possible and probable changes to the Limbo language, currently listed in no particular order:
+
   * first-class functions
   * modules able to add adt fields (to allow a form of incomplete or opaque type)
   * dynamic types
@@ -32,6 +34,7 @@ Java implementations try to check a program using the byte codes, working out th
 # Ports
 
 It would be nice to have
+
   * up-to-date native ports for an up-to-date platform that's reasonably stable
   * packages for Debian/Ubuntu (the PPA system looks promising)
   * ...
