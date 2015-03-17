@@ -1,6 +1,13 @@
-# Welcome
+# Inferno and Limbo
 
-Welcome to your wiki! This is the default page we've installed for your convenience. Go ahead and edit it.
+Inferno provides an operating system environment for applications written in the concurrnet programming
+language Limbo.
+
+## Pages
+
+* [Inferno and Limbo Plans](InfernoAndLimboPlans.md)
+* [Project Suggestions, including GSoC Projects](Project_Suggestions.md)
+* [Advice for GSoC Project Applicants](Project_Applicants.md)
 
 ## Wiki features
 
