@@ -1,6 +1,6 @@
 # Inferno and Limbo
 
-Inferno provides an operating system environment for applications written in the concurrnet programming
+Inferno provides an operating system environment for applications written in the concurrent programming
 language Limbo.
 
 ## Pages
