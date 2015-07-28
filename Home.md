@@ -34,11 +34,24 @@ You can also highlight snippets of text (we use the excellent [Pygments][] libra
 Here's an example of some Python code:
 
 ```
-#!python
+#!limbo
 
-def wiki_rocks(text):
-    formatter = lambda t: "funky"+t
-    return formatter(text)
+implement Hello;
+
+include "sys.m";
+	sys: Sys;
+include "draw.m";
+
+Hello: module
+{
+	init:	fn(ctxt: ref Draw->Context, argv: list of string);
+};
+
+init(ctxt: ref Draw->Context, argv: list of string)
+{
+	sys = load Sys Sys->PATH;
+	sys->print("hello, world\n");
+}
 ```
 
 
