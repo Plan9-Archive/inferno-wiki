@@ -31,7 +31,7 @@ You can also highlight snippets of text (we use the excellent [Pygments][] libra
 [Pygments]: http://pygments.org/
 
 
-Here's an example of some Python code:
+Here's an example of some Limbo code:
 
 ```
 #!limbo
